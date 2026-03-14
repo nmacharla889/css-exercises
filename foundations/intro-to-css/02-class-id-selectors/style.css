@@ -1,1 +1,20 @@
+.classy {
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
 /* Add CSS Styling */
+
+#one {
+    color: #0000ff;
+    font-size: 36px
+}
+
+#two {
+    font-weight: bold;
+    background-color: hsl(120, 100%, 75%);
+}
+
+.fonty {
+    font-size: 24px;
+}
